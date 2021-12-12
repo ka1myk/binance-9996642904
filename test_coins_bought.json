@@ -35,15 +35,6 @@
         "stop_loss": -50,
         "take_profit": 0.8
     },
-    "AIONUSDT": {
-        "symbol": "AIONUSDT",
-        "orderid": 0,
-        "timestamp": 1639320439.942363,
-        "bought_at": "0.16330000",
-        "volume": 91,
-        "stop_loss": -99,
-        "take_profit": 0.4
-    },
     "RIFUSDT": {
         "symbol": "RIFUSDT",
         "orderid": 0,
@@ -68,6 +59,15 @@
         "timestamp": 1639320564.670515,
         "bought_at": "3.31600000",
         "volume": 4.5,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "TCTUSDT": {
+        "symbol": "TCTUSDT",
+        "orderid": 0,
+        "timestamp": 1639321183.066955,
+        "bought_at": "0.03569000",
+        "volume": 420,
         "stop_loss": -99,
         "take_profit": 0.4
     }
