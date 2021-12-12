@@ -35,24 +35,6 @@
         "stop_loss": -50,
         "take_profit": 0.8
     },
-    "TCTUSDT": {
-        "symbol": "TCTUSDT",
-        "orderid": 0,
-        "timestamp": 1639321183.066955,
-        "bought_at": "0.03569000",
-        "volume": 420,
-        "stop_loss": -99,
-        "take_profit": 0.4
-    },
-    "CELRUSDT": {
-        "symbol": "CELRUSDT",
-        "orderid": 0,
-        "timestamp": 1639329476.048434,
-        "bought_at": "0.07037000",
-        "volume": 213.2,
-        "stop_loss": -99,
-        "take_profit": 0.4
-    },
     "TRXUSDT": {
         "symbol": "TRXUSDT",
         "orderid": 0,
@@ -62,12 +44,12 @@
         "stop_loss": -99,
         "take_profit": 0.4
     },
-    "BTCUSDT": {
-        "symbol": "BTCUSDT",
+    "NEOUSDT": {
+        "symbol": "NEOUSDT",
         "orderid": 0,
-        "timestamp": 1639332113.567047,
-        "bought_at": "50428.56000000",
-        "volume": 0.0003,
+        "timestamp": 1639332623.966142,
+        "bought_at": "28.27000000",
+        "volume": 0.53,
         "stop_loss": -99,
         "take_profit": 0.4
     }
