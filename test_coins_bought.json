@@ -44,15 +44,6 @@
         "stop_loss": -99,
         "take_profit": 0.4
     },
-    "CTXCUSDT": {
-        "symbol": "CTXCUSDT",
-        "orderid": 0,
-        "timestamp": 1639340389.72639,
-        "bought_at": "0.34760000",
-        "volume": 43,
-        "stop_loss": -99,
-        "take_profit": 0.4
-    },
     "FETUSDT": {
         "symbol": "FETUSDT",
         "orderid": 0,
