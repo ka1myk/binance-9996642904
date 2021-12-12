@@ -35,15 +35,6 @@
         "stop_loss": -50,
         "take_profit": 0.8
     },
-    "NEOUSDT": {
-        "symbol": "NEOUSDT",
-        "orderid": 0,
-        "timestamp": 1639332623.966142,
-        "bought_at": "28.27000000",
-        "volume": 0.53,
-        "stop_loss": -99,
-        "take_profit": 0.4
-    },
     "WINUSDT": {
         "symbol": "WINUSDT",
         "orderid": 0,
