@@ -35,24 +35,6 @@
         "stop_loss": -50,
         "take_profit": 0.8
     },
-    "BTCUSDT": {
-        "symbol": "BTCUSDT",
-        "orderid": 0,
-        "timestamp": 1639320559.133909,
-        "bought_at": "49850.00000000",
-        "volume": 0.0003,
-        "stop_loss": -99,
-        "take_profit": 0.4
-    },
-    "EOSUSDT": {
-        "symbol": "EOSUSDT",
-        "orderid": 0,
-        "timestamp": 1639320564.670515,
-        "bought_at": "3.31600000",
-        "volume": 4.5,
-        "stop_loss": -99,
-        "take_profit": 0.4
-    },
     "TCTUSDT": {
         "symbol": "TCTUSDT",
         "orderid": 0,
@@ -62,12 +44,30 @@
         "stop_loss": -99,
         "take_profit": 0.4
     },
-    "LTCUSDT": {
-        "symbol": "LTCUSDT",
+    "BTCUSDT": {
+        "symbol": "BTCUSDT",
         "orderid": 0,
-        "timestamp": 1639327392.563265,
-        "bought_at": "158.50000000",
-        "volume": 0.095,
+        "timestamp": 1639328668.865497,
+        "bought_at": "50243.42000000",
+        "volume": 0.0003,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "ETHUSDT": {
+        "symbol": "ETHUSDT",
+        "orderid": 0,
+        "timestamp": 1639328668.865939,
+        "bought_at": "4074.10000000",
+        "volume": 0.0037,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "BNBUSDT": {
+        "symbol": "BNBUSDT",
+        "orderid": 0,
+        "timestamp": 1639328668.866251,
+        "bought_at": "566.70000000",
+        "volume": 0.026,
         "stop_loss": -99,
         "take_profit": 0.4
     }
