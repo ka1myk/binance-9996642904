@@ -43,5 +43,32 @@
         "volume": 28425,
         "stop_loss": -99,
         "take_profit": 0.4
+    },
+    "FETUSDT": {
+        "symbol": "FETUSDT",
+        "orderid": 0,
+        "timestamp": 1639340389.725217,
+        "bought_at": "0.54940000",
+        "volume": 27,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "COSUSDT": {
+        "symbol": "COSUSDT",
+        "orderid": 0,
+        "timestamp": 1639340389.725896,
+        "bought_at": "0.02553000",
+        "volume": 587.5,
+        "stop_loss": -99,
+        "take_profit": 0.4
+    },
+    "CTXCUSDT": {
+        "symbol": "CTXCUSDT",
+        "orderid": 0,
+        "timestamp": 1639340389.72639,
+        "bought_at": "0.34760000",
+        "volume": 43,
+        "stop_loss": -99,
+        "take_profit": 0.4
     }
 }
