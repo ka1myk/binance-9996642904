@@ -71,12 +71,12 @@
         "stop_loss": -99,
         "take_profit": 0.8
     },
-    "BTTUSDT": {
-        "symbol": "BTTUSDT",
-        "orderid": 731509195,
-        "timestamp": 1640082153324,
-        "bought_at": "0.00267500",
-        "volume": 5607,
+    "TRXUSDT": {
+        "symbol": "TRXUSDT",
+        "orderid": 1548795591,
+        "timestamp": 1640082452326,
+        "bought_at": "0.07859000",
+        "volume": 190.9,
         "stop_loss": -99,
         "take_profit": 0.8
     }
