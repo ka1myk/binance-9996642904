@@ -53,15 +53,6 @@
         "stop_loss": -99,
         "take_profit": 0.8
     },
-    "SANDUSDT": {
-        "symbol": "SANDUSDT",
-        "orderid": 997479679,
-        "timestamp": 1640093852835,
-        "bought_at": "5.13650000",
-        "volume": 2,
-        "stop_loss": -99,
-        "take_profit": 0.8
-    },
     "BTCUSDT": {
         "symbol": "BTCUSDT",
         "orderid": 8265567800,
