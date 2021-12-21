@@ -70,5 +70,14 @@
         "volume": 208,
         "stop_loss": -99,
         "take_profit": 0.4
+    },
+    "CTXCUSDT": {
+        "symbol": "CTXCUSDT",
+        "orderid": 0,
+        "timestamp": 1640081047.430998,
+        "bought_at": "0.43580000",
+        "volume": 34,
+        "stop_loss": -99,
+        "take_profit": 0.8
     }
 }
