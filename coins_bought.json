@@ -53,15 +53,6 @@
         "stop_loss": -99,
         "take_profit": 0.8
     },
-    "BNBUSDT": {
-        "symbol": "BNBUSDT",
-        "orderid": 3475253081,
-        "timestamp": 1640171190152,
-        "bought_at": "536.10000000",
-        "volume": 0.028,
-        "stop_loss": -99,
-        "take_profit": 0.8
-    },
     "STORJUSDT": {
         "symbol": "STORJUSDT",
         "orderid": 440946629,
