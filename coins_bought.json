@@ -53,15 +53,6 @@
         "stop_loss": -99,
         "take_profit": 0.8
     },
-    "LTCUSDT": {
-        "symbol": "LTCUSDT",
-        "orderid": 2608217809,
-        "timestamp": 1640125340405,
-        "bought_at": "155.60000000",
-        "volume": 0.096,
-        "stop_loss": -99,
-        "take_profit": 0.8
-    },
     "ZILUSDT": {
         "symbol": "ZILUSDT",
         "orderid": 576130535,
