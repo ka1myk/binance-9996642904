@@ -53,15 +53,6 @@
         "stop_loss": -99,
         "take_profit": 0.8
     },
-    "NEOUSDT": {
-        "symbol": "NEOUSDT",
-        "orderid": 855619420,
-        "timestamp": 1640147592688,
-        "bought_at": "26.84000000",
-        "volume": 0.56,
-        "stop_loss": 0.8196721311475367,
-        "take_profit": 0.9196721311475367
-    },
     "IOTAUSDT": {
         "symbol": "IOTAUSDT",
         "orderid": 539452113,
