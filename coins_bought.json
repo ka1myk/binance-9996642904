@@ -44,15 +44,6 @@
         "stop_loss": -99,
         "take_profit": 0.4
     },
-    "ZILUSDT": {
-        "symbol": "ZILUSDT",
-        "orderid": 576130535,
-        "timestamp": 1640140873290,
-        "bought_at": "0.06479000",
-        "volume": 231.5,
-        "stop_loss": -99,
-        "take_profit": 0.8
-    },
     "IOTAUSDT": {
         "symbol": "IOTAUSDT",
         "orderid": 539452113,
