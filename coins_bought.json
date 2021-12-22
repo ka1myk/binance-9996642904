@@ -44,15 +44,6 @@
         "stop_loss": -99,
         "take_profit": 0.4
     },
-    "IOTAUSDT": {
-        "symbol": "IOTAUSDT",
-        "orderid": 539452113,
-        "timestamp": 1640155068585,
-        "bought_at": "1.27750000",
-        "volume": 11,
-        "stop_loss": -99,
-        "take_profit": 0.8
-    },
     "BTSUSDT": {
         "symbol": "BTSUSDT",
         "orderid": 191617606,
