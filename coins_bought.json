@@ -70,5 +70,14 @@
         "volume": 0.56,
         "stop_loss": -99,
         "take_profit": 0.8
+    },
+    "SANDUSDT": {
+        "symbol": "SANDUSDT",
+        "orderid": 1001302418,
+        "timestamp": 1640148557713,
+        "bought_at": "5.18050000",
+        "volume": 2,
+        "stop_loss": -99,
+        "take_profit": 0.8
     }
 }
