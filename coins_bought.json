@@ -70,5 +70,14 @@
         "volume": 10.2,
         "stop_loss": -99,
         "take_profit": 0.8
+    },
+    "XRPUSDT": {
+        "symbol": "XRPUSDT",
+        "orderid": 3803233034,
+        "timestamp": 1640342365413,
+        "bought_at": "0.96060000",
+        "volume": 15,
+        "stop_loss": -99,
+        "take_profit": 0.8
     }
 }
