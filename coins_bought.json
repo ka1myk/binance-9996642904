@@ -43,5 +43,41 @@
         "volume": 0.036,
         "stop_loss": -99,
         "take_profit": 0.4
+    },
+    "QTUMUSDT": {
+        "symbol": "QTUMUSDT",
+        "orderid": 796305835,
+        "timestamp": 1640328867353,
+        "bought_at": "10.10900000",
+        "volume": 1.5,
+        "stop_loss": -99,
+        "take_profit": 0.8
+    },
+    "XRPUSDT": {
+        "symbol": "XRPUSDT",
+        "orderid": 3802522255,
+        "timestamp": 1640328867910,
+        "bought_at": "0.96830000",
+        "volume": 15,
+        "stop_loss": -99,
+        "take_profit": 0.8
+    },
+    "IOTAUSDT": {
+        "symbol": "IOTAUSDT",
+        "orderid": 541662378,
+        "timestamp": 1640328868480,
+        "bought_at": "1.27370000",
+        "volume": 11,
+        "stop_loss": -99,
+        "take_profit": 0.8
+    },
+    "VETUSDT": {
+        "symbol": "VETUSDT",
+        "orderid": 1635295404,
+        "timestamp": 1640328869061,
+        "bought_at": "0.09437000",
+        "volume": 158.9,
+        "stop_loss": -99,
+        "take_profit": 0.8
     }
 }
