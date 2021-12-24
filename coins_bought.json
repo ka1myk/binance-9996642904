@@ -71,12 +71,12 @@
         "stop_loss": -99,
         "take_profit": 0.8
     },
-    "WINUSDT": {
-        "symbol": "WINUSDT",
-        "orderid": 382887456,
-        "timestamp": 1640334611782,
-        "bought_at": "0.00052230",
-        "volume": 28719,
+    "XRPUSDT": {
+        "symbol": "XRPUSDT",
+        "orderid": 3803079564,
+        "timestamp": 1640338752607,
+        "bought_at": "0.97270000",
+        "volume": 15,
         "stop_loss": -99,
         "take_profit": 0.8
     }
