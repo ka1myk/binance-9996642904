@@ -70,5 +70,14 @@
         "volume": 158.9,
         "stop_loss": -99,
         "take_profit": 0.8
+    },
+    "WANUSDT": {
+        "symbol": "WANUSDT",
+        "orderid": 231663037,
+        "timestamp": 1640330691402,
+        "bought_at": "0.69380000",
+        "volume": 21,
+        "stop_loss": -99,
+        "take_profit": 0.8
     }
 }
