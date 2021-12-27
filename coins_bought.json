@@ -44,15 +44,6 @@
         "stop_loss": -99,
         "take_profit": 0.4
     },
-    "ADAUSDT": {
-        "symbol": "ADAUSDT",
-        "orderid": 2754987390,
-        "timestamp": 1640342751315,
-        "bought_at": "1.46400000",
-        "volume": 10.2,
-        "stop_loss": -99,
-        "take_profit": 0.8
-    },
     "XRPUSDT": {
         "symbol": "XRPUSDT",
         "orderid": 3803233034,
