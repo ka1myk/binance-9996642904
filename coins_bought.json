@@ -26,15 +26,6 @@
         "stop_loss": -99,
         "take_profit": 0.4
     },
-    "FTMUSDT": {
-        "symbol": "FTMUSDT",
-        "orderid": 851623649,
-        "timestamp": 1636976109694,
-        "bought_at": "2.57410000",
-        "volume": 5,
-        "stop_loss": -99,
-        "take_profit": 0.4
-    },
     "MOVRUSDT": {
         "symbol": "MOVRUSDT",
         "orderid": 3568722,
