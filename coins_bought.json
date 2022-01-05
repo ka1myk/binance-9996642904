@@ -1,16 +1,4 @@
 {
-    "BTCUSDT": {
-        "symbol": "BTCUSDT",
-        "orderid": 8863800528,
-        "timestamp": 1641372716022,
-        "bought_at": "46630.38000000",
-        "volume": 0.00032,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 46606.72160796,
-        "volume_of_BTC_buy": "104.20765000",
-        "trades_of_BTC_buy": 3815
-    },
     "UNIUSDT": {
         "symbol": "UNIUSDT",
         "orderid": 1313500581,
@@ -22,5 +10,17 @@
         "avgPriceBTCUSDT_buy": 46793.17105734,
         "volume_of_BTC_buy": "353.32606000",
         "trades_of_BTC_buy": 7531
+    },
+    "BTCUSDT": {
+        "symbol": "BTCUSDT",
+        "orderid": 8864235278,
+        "timestamp": 1641375853542,
+        "bought_at": "46908.61000000",
+        "volume": 0.00032,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 46880.06571069,
+        "volume_of_BTC_buy": "302.10327000",
+        "trades_of_BTC_buy": 6787
     }
 }
