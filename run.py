@@ -1,7 +1,7 @@
 import os
 import time
 
-while 1:
+while True:
     os.system("python3 start.py")
     print("Restarting...")
-    time.sleep(0.2) # 200ms to CTR+C twice
+    time.sleep(5)
