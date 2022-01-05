@@ -22,5 +22,17 @@
         "avgPriceBTCUSDT_buy": 46798.82191172,
         "volume_of_BTC_buy": "102.29916000",
         "trades_of_BTC_buy": 3788
+    },
+    "UNIUSDT": {
+        "symbol": "UNIUSDT",
+        "orderid": 1313629433,
+        "timestamp": 1641379323719,
+        "bought_at": "19.34000000",
+        "volume": 0.78,
+        "stop_loss": -99,
+        "take_profit": 0.5,
+        "avgPriceBTCUSDT_buy": 46751.0127897,
+        "volume_of_BTC_buy": "164.96052000",
+        "trades_of_BTC_buy": 4844
     }
 }
