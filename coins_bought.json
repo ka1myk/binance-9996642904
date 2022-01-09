@@ -58,17 +58,5 @@
         "avgPriceBTCUSDT_buy": 46306.51338942,
         "volume_of_BTC_buy": "63.01297000",
         "trades_of_BTC_buy": 1993
-    },
-    "LINKUSDT": {
-        "symbol": "LINKUSDT",
-        "orderid": 3078327777,
-        "timestamp": 1641762593655,
-        "bought_at": "28.11000000",
-        "volume": 0.53,
-        "stop_loss": -99,
-        "take_profit": 0.5,
-        "avgPriceBTCUSDT_buy": 42467.20819468,
-        "volume_of_BTC_buy": "39.28510000",
-        "trades_of_BTC_buy": 2120
     }
 }
